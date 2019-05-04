@@ -35,6 +35,7 @@ body > div > i {display: none !important;}
   text-align: center;
   color: #ffffff;
   font-size: 22px;
+  text-decoration: none;
 }
 
 @media (min-width: 600px) {
